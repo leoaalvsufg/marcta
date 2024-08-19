@@ -1,4 +1,4 @@
-# marcta
+# MAF
 Marcta Autonomy Framework - MAF
 
 MAF é um framework de gamificação desenvolvido para abordar necessidades e desafios em diversos contextos educacionais, especialmente na experiência de ensino e aprendizado. Esse framework combina a estrutura do framework de Andrzej Marczewski, que foca em diferentes tipos de jogadores e suas motivações, com os motivadores do Framework Octalysis, criado por Yu-kai Chou, que detalha os impulsionadores de motivação intrínseca e extrínseca.
