@@ -1,7 +1,25 @@
-# Marcta Autonomy Framework - MAF
+# Marcta Autonomy Framework (MAF)
 
-MAF é um framework de gamificação desenvolvido para abordar necessidades e desafios em diversos contextos educacionais, especialmente na experiência de ensino e aprendizado. Esse framework combina a estrutura do framework de Andrzej Marczewski, que foca em diferentes tipos de jogadores e suas motivações, com os motivadores do Framework Octalysis, criado por Yu-kai Chou, que detalha os impulsionadores de motivação intrínseca e extrínseca.
+## Introdução
 
-O MAF é projetado para promover o desenvolvimento pessoal e a autonomia dos participantes, integrando elementos de gamificação que incentivam a autoexpressão, a busca por desafios e a realização de metas. É particularmente útil em ambientes educacionais, como cursos de programação e prática de engenharia de software, onde o desenvolvimento de habilidades técnicas e comportamentais é essencial.
+O **Marcta Autonomy Framework (MAF)** é um modelo desenvolvido para abordar o desenvolvimento de habilidades pessoais e profissionais em ambientes educacionais e corporativos, por meio da gamificação. O MAF combina elementos de frameworks de gamificação, como **Octalysis** de Yu-kai Chou, **HEXAD** de Andrzej Marczewski, e a **Teoria da Autodeterminação** (SDT) de Deci e Ryan, buscando equilibrar motivadores intrínsecos e extrínsecos. O foco do MAF está em criar uma experiência envolvente e personalizada para estimular o engajamento e o aprendizado contínuo.
 
-A aplicação desse framework envolve a criação de experiências de aprendizado personalizadas que consideram as diferentes motivações e estilos de aprendizado dos alunos, incentivando o engajamento, a participação ativa e o crescimento pessoal.
+## Problema
+
+O problema abordado pelo MAF é a **falta de uma abordagem integrada e personalizada** que equilibre os motivadores intrínsecos e extrínsecos de maneira eficaz, permitindo a medição precisa dos resultados tanto individuais quanto coletivos. Os frameworks de gamificação existentes apresentam limitações quanto à flexibilidade e à adequação a diferentes contextos educacionais, além da dificuldade de medir o impacto na motivação e no desenvolvimento de habilidades.
+
+## Metodologia
+
+A metodologia do MAF se baseia em **seis ciclos em 13 passos**, que visam proporcionar uma experiência contínua de desenvolvimento de habilidades. O framework inclui etapas como análise de contexto, design da estratégia de gamificação, personalização dos papéis dos participantes, progressão nos times, rotação de grupos, e feedback contínuo. Essa estrutura possibilita uma aplicação flexível e adaptável em diferentes ambientes, sempre buscando maximizar o aprendizado e o engajamento dos participantes.
+
+## Estudos de Caso
+
+O MAF foi aplicado em dois estudos de caso principais:
+
+1. **Fábrica de Software**: A aplicação do MAF na disciplina de **Prática em Engenharia de Software** visou simular um ambiente profissional para alunos do curso, focando no desenvolvimento de habilidades como liderança, trabalho em equipe e resolução de problemas. Os resultados indicaram um aumento significativo no engajamento dos estudantes e no desenvolvimento das habilidades interpessoais.
+
+2. **Introdução à Programação**: Outro estudo de caso foi realizado em turmas de **Introdução à Programação** para alunos do Bacharelado em Inteligência Artificial. A aplicação do MAF promoveu a motivação e a autonomia dos alunos, incentivando o aprendizado de habilidades técnicas e o desenvolvimento de competências sociais essenciais, como comunicação e colaboração.
+
+## Conclusão
+
+O **Marcta Autonomy Framework** apresenta-se como uma solução eficaz para o **design de experiências de aprendizado** que promovam o desenvolvimento de habilidades pessoais e profissionais, ao mesmo tempo em que aumentam o engajamento e a satisfação dos participantes. O uso de gamificação personalizada permite que o MAF seja adaptado a diferentes contextos, mantendo um foco contínuo no aprimoramento e na autonomia dos estudantes.
