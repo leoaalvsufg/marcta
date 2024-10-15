@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O **Marcta Autonomy Framework (MAF)** é um framework desenvolvido para abordar o desenvolvimento de habilidades pessoais e profissionais em ambientes educacionais e corporativos, por meio da gamificação. O MAF combina elementos de frameworks de gamificação, como **Octalysis** de Yu-kai Chou, **HEXAD** de Andrzej Marczewski, e a **Teoria da Autodeterminação** (SDT) de Deci e Ryan, buscando equilibrar motivadores intrínsecos e extrínsecos. O foco do MAF está em criar uma experiência envolvente e personalizada para estimular o engajamento e o aprendizado contínuo.
+O **Marcta Autonomy Framework (MAF)** é um framework desenvolvido para promover o desenvolvimento de habilidades pessoais e profissionais em ambientes educacionais e corporativos, por meio da gamificação. O MAF combina elementos de frameworks de gamificação, como **Octalysis** de Yu-kai Chou, **HEXAD** de Andrzej Marczewski, e a **Teoria da Autodeterminação** (SDT) de Deci e Ryan, buscando equilibrar motivadores intrínsecos e extrínsecos. O foco do MAF está em criar uma experiência envolvente e personalizada para estimular o engajamento e o aprendizado contínuo.
 
 ## Problema
 
