@@ -23,3 +23,10 @@ O MAF foi aplicado em dois estudos de caso principais:
 ## Conclusão
 
 O **Marcta Autonomy Framework** apresenta-se como uma solução eficaz para o **design de experiências de aprendizado** que promovam o desenvolvimento de habilidades pessoais e profissionais, ao mesmo tempo em que aumentam o engajamento e a satisfação dos participantes. O uso de gamificação personalizada permite que o MAF seja adaptado a diferentes contextos, mantendo um foco contínuo no aprimoramento e na autonomia dos estudantes.
+
+## Links para Documentos Relacionados
+
+- [Análise de dados - Marcta.docx](./An%C3%A1lise%20de%20dados%20-%20Marcta.docx)
+- [Projeto PTA BIA 2024 (1).pdf](./Projeto%20PTA%20BIA%202024%20(1).pdf)
+- [Formulário de avaliação.docx](./formul%C3%A1rio%20de%20avaliacao.docx)
+- [Links e informações.md](./links%20e%20informacoes.md)
